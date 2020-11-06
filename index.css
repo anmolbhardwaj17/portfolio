@@ -18,6 +18,18 @@
 
 }
 
+.maill{
+  color:black;
+  text-decoration: none;
+  cursor:pointer;
+  transition:0.2s;
+}
+
+.maill:hover{
+  color:#4A87ED;
+  text-decoration: none;
+}
+
 .dropdown .dropbtn {
   font-size: 16px;
   border: none;
